@@ -5,11 +5,11 @@
 /* MySQL Workbench에서 초기화면에서 +를 눌러 root Connection을 만들어 접속한다. */
 /* user : madang, database : madangdb */
 /* 사용자 삭제 drop user madang@localhost; */
-create database madangdb;
+/*create database madangdb;
 create user madang@localhost identified by 'madang';
 grant all privileges on madangdb.* to madang@localhost;
 commit;
-
+*/
 /* 여기서부터 madang 계정으로 접속 */
 /* MySQL Workbench에서 초기화면에서 +를 눌러 madang connection을 만들어 접속한다. */
 
